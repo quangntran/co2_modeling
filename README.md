@@ -1,4 +1,4 @@
-# Modeling and forecasting atmospheric $CO_2$ from 1958 to 2058
+# Modeling and forecasting atmospheric CO2 from 1958 to 2058
 
 Since 1958 atmospheric carbon dioxide measurements have been recorded at the Mauna Loa Observatory in Hawaii. CO2 levels have been [increasing steadily since the start of the industrial revolution](https://www.acs.org/content/acs/en/climatescience/greenhousegases/industrialrevolution.html) in the 18th century.
 
